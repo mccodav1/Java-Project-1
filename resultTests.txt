@@ -1,0 +1,8 @@
+John Doe
+Personality Type 1
+George Washington
+Personality Type 2
+John Adams
+Personality Type 3
+James Madison
+Personality Type 4
